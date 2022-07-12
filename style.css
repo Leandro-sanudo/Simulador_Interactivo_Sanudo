@@ -139,7 +139,7 @@
     /* galeria */
     .gallery-project{
         display: grid;
-        grid-template-columns: repeat(4, 3fr);
+        grid-template-columns: repeat(2, 3fr);
         grid-auto-rows: 300px;
         gap: 20px;
     }
